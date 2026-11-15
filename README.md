@@ -7,7 +7,15 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT"></a>
 </p>
 
-记录学习 C++ 的练习代码，按专题分目录。
+> 记录学习 C++ 的练习代码，按专题分目录。
+
+## English TL;DR
+
+A curated set of **C/C++ practice topics** — 20 folders walking from the first `hello` program through pointers, classes, copy constructors, operator overloading and lambdas, up to a capstone student-management system and a custom math DLL.
+
+- 📚 One folder per topic, indexed in the table below
+- 🧪 Each topic is a standalone compilable sample, not just notes
+- 🇨🇳 Docs are in Chinese.
 
 | 目录 | 内容 |
 | --- | --- |
