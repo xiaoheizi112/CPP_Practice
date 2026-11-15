@@ -1,5 +1,12 @@
 # CPP_Practice
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C-555555?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cpp&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/topics-20-blue" alt="20 topics">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT"></a>
+</p>
+
 记录学习 C++ 的练习代码，按专题分目录。
 
 | 目录 | 内容 |
